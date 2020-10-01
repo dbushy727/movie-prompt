@@ -30,8 +30,5 @@ This application could be built with a wide range of tools, but for the sake of 
 [React Docs](https://reactjs.org/)
 
 
-## APIs
-You are free to use whatever API's you choose that complete the app. There may or may not be some API's that already aggregate Movie Ratings from different sources like IMDB/Rotten Tomato. We should avoid using one API for all rating sources for the sake of the prompt, and use at least 2 API's for movie ratings.
-
 ## Testing
 We should aim to test the application, so we feel confident that our application works as expected, and is easy to make changes with confidence. 
