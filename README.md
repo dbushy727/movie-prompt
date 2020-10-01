@@ -1,5 +1,5 @@
 # ReMovie
-Sample exercise for building an movie review aggregator app in Laravel
+Sample exercise for building a movie ratings app in Laravel.
 
 ## Description
 Let's build a movie review app. The app should have some basic features that allow a user to search for movies and see the ratings and reviews of the movie.
