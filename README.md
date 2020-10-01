@@ -6,6 +6,9 @@ Let's build a movie review app. The app should have some basic features that all
 
 The features should include:
 
+### Auth
+A user should be able to register for the application and be able to sign in and out.
+
 ### Search
 The app should allow the user to search for a movie, and see a list of movie results that match what the user searched. 
 
@@ -17,3 +20,15 @@ The user should be able to click through to an in-depth review about the movie (
 
 ### Liking
 The user should be able to "Like" a movie. A user should then be able to see all the movies they have "liked" for quicker access for ratings and review info. 
+
+## Tools
+This application could be built with a wide range of tools, but for the sake of this exercise, we should confine it to using PHP, Javascript, Laravel and React as our languages/frameworks of choice. 
+
+[PHP Docs](https://www.php.net/)
+[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+[Laravel Docs](https://laravel.com/docs/8.x)
+[React Docs](https://reactjs.org/)
+
+
+## APIs
+You are free to use whatever API's you choose that complete the app. There may or may not be some API's that already aggregate Movie Ratings from different sources like IMDB/Rotten Tomato. We should avoid using one API for all rating sources for the sake of the prompt, and use at least 2 API's for movie ratings.
