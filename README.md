@@ -25,10 +25,17 @@ The user should be able to "Like" a movie. A user should then be able to see all
 This application could be built with a wide range of tools, but for the sake of this exercise, we should confine it to using PHP, Javascript, Laravel and React as our languages/frameworks of choice. 
 
 [PHP Docs](https://www.php.net/)
-[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-[Laravel Docs](https://laravel.com/docs/8.x)
-[React Docs](https://reactjs.org/)
 
+[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+[Laravel Docs](https://laravel.com/docs/8.x)
+
+[React Docs](https://reactjs.org/)
 
 ## Testing
 We should aim to test the application, so we feel confident that our application works as expected, and is easy to make changes with confidence. 
+
+## Recommended API's
+  - [OMDB API](http://www.omdbapi.com/)
+  - [NY Times Reviews](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)
+  - 
