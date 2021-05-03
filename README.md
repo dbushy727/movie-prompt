@@ -35,7 +35,13 @@ This application could be built with a wide range of tools, but for the sake of 
 ## Testing
 We should aim to test the application, so we feel confident that our application works as expected, and is easy to make changes with confidence. 
 
+[PHPUnit Docs](https://phpunit.de/documentation.html)
+
+[Cypress Docs](https://docs.cypress.io/guides/overview/why-cypress)
+
+[React Testing Library Docs](https://testing-library.com/docs/)
+
 ## Recommended API's
-  - [OMDB API](http://www.omdbapi.com/)
-  - [NY Times Reviews](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)
-  - 
+[OMDB API](http://www.omdbapi.com/)
+  
+[NY Times Reviews](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)
