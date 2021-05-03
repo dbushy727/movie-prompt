@@ -15,6 +15,8 @@ The app should allow the user to search for a movie, and see a list of movie res
 ### Ratings
 The user should be able to see the ratings for a given movie (e.g Rotten Tomatoes, IMDB, etc.)
 
+**Bonus:** Show ratings from multiple API sources.
+
 ### Reviews
 The user should be able to click through to an in-depth review about the movie (e.g NY Times Movie Review)
 
